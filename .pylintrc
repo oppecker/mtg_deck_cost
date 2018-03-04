@@ -110,7 +110,7 @@ ignore-imports=no
 bad-functions=map,filter,input
 
 # Good variable names which should always be accepted, separated by a comma
-good-names=lines,deck,total
+good-names=lines,deck,total,parser,args
 
 # Bad variable names which should always be refused, separated by a comma
 bad-names=foo,bar,baz,toto,tutu,tata
